@@ -9,5 +9,4 @@ public class QuanLyChuyenBayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(QuanLyChuyenBayApplication.class, args);
 	}
-
 }
